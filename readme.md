@@ -1,7 +1,6 @@
-Here's a sample README file for your Git project that includes the provided commands:
 
 ```markdown
-# Project Name
+# Sequalize migration Practise
 
 ## Introduction
 
@@ -100,5 +99,3 @@ The following scripts are included in the `package.json` file:
 
 These commands will help you manage migrations and seeding in your Sequelize-based project. For more information, refer to the [Sequelize CLI documentation](https://sequelize.org/master/manual/migrations.html).
 ```
-
-Feel free to modify the project name and any other details as needed!
