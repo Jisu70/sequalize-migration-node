@@ -1,5 +1,3 @@
-
-```markdown
 # Sequalize migration Practise
 
 ## Introduction
@@ -98,4 +96,3 @@ The following scripts are included in the `package.json` file:
 ## Conclusion
 
 These commands will help you manage migrations and seeding in your Sequelize-based project. For more information, refer to the [Sequelize CLI documentation](https://sequelize.org/master/manual/migrations.html).
-```
