@@ -1,0 +1,18 @@
+{
+  "name": "migration_practice_sequalize",
+  "version": "1.0.0",
+  "description": "A small practice project to learn how sequlaize migration implemented",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "npx sequelize-cli db:migrate",
+    "migrate:undo": "npx sequelize-cli db:migrate:undo"
+  },
+  "author": "Sudipta",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2"
+  }
+}
